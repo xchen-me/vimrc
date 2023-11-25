@@ -3,11 +3,6 @@ set nocompatible                " makes Vim work without being Vi-compatible, al
 " set SPACE as the leader key
 let g:mapleader = "\<Space>"
 
-" let g:python3_host_prog = '/usr/local/bin/python3'
-" let g:python3_host_prog = '/Library/Frameworks/Python.framework/Versions/3.7/bin/python3'
-" let g:python3_host_prog = '$HOME/Library/Python/3.7/bin/'
-" let g:python3_host_prog = '$HOME/Library/Python/3.9/bin/'
-
 set ruler              			 " Show the cursor position all the time
 set iskeyword+=-             " treat dash separated words as a word text object"
 set mouse=a                  " Enable your mouse
